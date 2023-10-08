@@ -35,7 +35,7 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 
 ## :mailbox_with_no_mail: Contact
 
-picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mayconrodriguesferreira/" target="_blank">
