@@ -1,5 +1,6 @@
-# Hi There
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There 
 <p align="center">
+
 <img align="center" height="168em" src="https://media.giphy.com/media/3SefjfxBLusH6/giphy.gif"/>
 
 Meu nome é **Maycon Rodrigues Ferreia**. Sou técnico em Eletrônica pelo **CEFET-MG** e atualmente estou cursando o ensino superior em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade **UniSales - Centro Universitário Salesiano UniSales**.
@@ -19,14 +20,15 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 
 </div>
 
-### Hard Skills
+## 📚 **Aprendendo**
+
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### Soft Skills
+## Soft Skills
 ![Comunicativo](https://img.shields.io/badge/Comunicativo-%23E34F26.svg?style=for-the-badge&logo=Comunicativo&logoColor=white)
 ![Proativo](https://img.shields.io/badge/Proativo-339933.svg?style=for-the-badge&logo=Proativo&logoColor=%23F7DF1E)
 ![Empatico](https://img.shields.io/badge/Empatico-black.svg?style=for-the-badge&logo=Empatico&logoColor=white)
