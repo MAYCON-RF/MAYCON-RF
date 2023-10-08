@@ -17,13 +17,13 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 ![HTML](https://img.shields.io/badge/HTML-red) 
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
-
+![Java](https://img.shields.io/badge/Java-black)
+  
 
 ### Soft Skills
-![Communicative](https://img.shields.io/badge/Communicative-red)
-![Proactive](https://img.shields.io/badge/Proactive-blue)
-![Organized](https://img.shields.io/badge/Organized-red)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue)
+![Comunicativo](https://img.shields.io/badge/Communicative-red)
+![Proativo](https://img.shields.io/badge/Proactive-blue)
+![Empatico](https://img.shields.io/badge/Empathetic-blue)
 
 ## :mailbox_with_no_mail: Contact
 
