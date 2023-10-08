@@ -21,9 +21,9 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
   
 
 ### Soft Skills
-![Comunicativo](https://img.shields.io/badge/Communicative-red)
-![Proativo](https://img.shields.io/badge/Proactive-blue)
-![Empatico](https://img.shields.io/badge/Empathetic-blue)
+![Comunicativo](https://img.shields.io/badge/Comunicativo-red)
+![Proativo](https://img.shields.io/badge/Proativo-blue)
+![Empatico](https://img.shields.io/badge/Empatico-blue)
 
 ## :mailbox_with_no_mail: Contact
 
