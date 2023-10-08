@@ -29,5 +29,6 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![LINKEDIN](https://img.shields.io/badge/Linkdin-blue)]([https://www.linkedin.com/in/mayconrodriguesferreira/](https://www.linkedin.com/in/mayconrodriguesferreira/))
+[![Linkedin](https://img.shields.io/badge/Linkdin-blue)]([https://www.linkedin.com/in/mayconrodriguesferreira/](https://www.linkedin.com/in/mayconrodriguesferreira/))
 [![GitHub](https://img.shields.io/badge/GitHub-black)]([https://github.com/MAYCON-RF](https://github.com/MAYCON-RF))
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-green)]([https://wa.me/5531984627697](https://wa.me/5531984627697))
