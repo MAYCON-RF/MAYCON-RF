@@ -35,7 +35,7 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 
 ## :mailbox_with_no_mail: Contact
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mayconrodriguesferreira/" target="_blank">
