@@ -3,7 +3,7 @@
 
 <img align="center" height="168em" src="https://media.giphy.com/media/3SefjfxBLusH6/giphy.gif"/>
 
-Meu nome é **Maycon Rodrigues Ferreia**. Sou técnico em Eletrônica pelo **CEFET-MG** e atualmente estou cursando o ensino superior em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade **UniSales - Centro Universitário Salesiano UniSales**.
+Meu nome é **Maycon Rodrigues Ferreia**. Sou técnico em Eletrônica pelo **CEFET-MG** e atualmente estou cursando o ensino superior de Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade **UniSales - Centro Universitário Salesiano UniSales**.
 Agradeço por explorar meus projetos e espero que encontre algo interessante aqui! 😊🚀
 
 <div align="center">
