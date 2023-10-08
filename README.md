@@ -13,17 +13,16 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 </div>
 
 ### Hard Skills
-
-![HTML](https://img.shields.io/badge/HTML-red) 
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JS](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-black)
-  
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 
 ### Soft Skills
-![Comunicativo](https://img.shields.io/badge/Comunicativo-red)
-![Proativo](https://img.shields.io/badge/Proativo-blue)
-![Empatico](https://img.shields.io/badge/Empatico-blue)
+![Comunicativo](https://img.shields.io/badge/Comunicativo-%23E34F26.svg?style=for-the-badge&logo=Comunicativo&logoColor=white)
+![Proativo](https://img.shields.io/badge/Proativo-339933.svg?style=for-the-badge&logo=Proativo&logoColor=%23F7DF1E)
+![Empatico](https://img.shields.io/badge/Empatico-black.svg?style=for-the-badge&logo=Empatico&logoColor=white)
 
 ## :mailbox_with_no_mail: Contact
 
