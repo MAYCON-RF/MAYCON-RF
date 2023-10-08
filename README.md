@@ -2,14 +2,21 @@
 <p align="center">
 <img align="center" height="168em" src="https://media.giphy.com/media/3SefjfxBLusH6/giphy.gif"/>
 
-Meu nome é **Maycon Rodrigues Ferreia**. Sou tecnico em eletrônica pelo **CEFET-MG** e atualmente estou cursando o Ensino Superior em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade **UniSales - Centro Universitário Salesiano UniSales**.
+Meu nome é **Maycon Rodrigues Ferreia**. Sou técnico em Eletrônica pelo **CEFET-MG** e atualmente estou cursando o ensino superior em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade **UniSales - Centro Universitário Salesiano UniSales**.
 Agradeço por explorar meus projetos e espero que encontre algo interessante aqui! 😊🚀
 
 <div align="center">
 
 <br>
-<img height="168em" src="https://github-readme-stats.vercel.app/api?username=MAYCON-RF&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)"/>
-<img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYCON-RF&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MAYCON-RF&show_icons=true&rank_icon=github&theme=shadow_blue" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYCON-RF&theme=shadow_red" />
+</a>
+
+
 </div>
 
 ### Hard Skills
