@@ -32,3 +32,13 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
 [![Linkedin](https://img.shields.io/badge/Linkdin-blue)]([https://www.linkedin.com/in/mayconrodriguesferreira/](https://www.linkedin.com/in/mayconrodriguesferreira/))
 [![GitHub](https://img.shields.io/badge/GitHub-black)]([https://github.com/MAYCON-RF](https://github.com/MAYCON-RF))
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green)]([https://wa.me/5531984627697](https://wa.me/5531984627697))
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mayconrodriguesferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
+  </a>
+  <a href="https://wa.me/5531984627697" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-2EC866&?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo"/>
+  </a>
+</div>
