@@ -45,3 +45,7 @@ Agradeço por explorar meus projetos e espero que encontre algo interessante aqu
     <img src="https://img.shields.io/badge/WhatsApp-2EC866&?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo"/>
   </a>
 </div>
+
+
+<h1>
+Visitors: <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MAYCON-RF/count.svg" /></p>
